@@ -1,0 +1,500 @@
+   10  git checkout d1932e7
+   11  ls
+   12  ls -a
+   13  git checkout tree
+   14  git log --oneline
+   15  git checkout 238bf8d
+   16  ks
+   17  ls
+   18  ls -a
+   19  git checkout tree
+   20  ls
+   21  npp README.md 
+   22  ls
+   23  npp outClue.sh 
+   24  npp chamichangas.sh 
+   25  npp chamichangas.sh 
+   26  git merge live2code
+   27  git merge origin/live2code 
+   28  git mergetool
+   29  ls
+   30  git status
+   31  git add .
+   32  git mergetool --continue
+   33  git merge --continue
+   34  git status
+   35  ls
+   36  npp outClue.sh
+   37  git checkout $(echo 90mP8ouQHsNe | tr -d '0-9A-Z')
+   38  ls
+   39  npp README.md 
+   40  npp remember 
+   41  ls -a
+   42  git branch -a
+   43  git diff mouse bug -- remember
+   44  git checkout Tutor
+   45  git branch -a
+   46  ls
+   47  npp README.md 
+   48  git log --oneline
+   49  cd README.md 
+   50  ls
+   51  npp README.md 
+   52  git tag list 
+   53  git tag
+   54  git tag -d Tutor
+   55  git tag -d list
+   56  git branch -a
+   57  git checkout Tutor
+   58  ls
+   59  npp README.md 
+   60  ls
+   61  ls -a
+   62  git checkout master
+   63  ls
+   64  ls -a
+   65  git log --oneline
+   66  git checkout 82d94b5
+   67  ls
+   68  npp README.md 
+   69  git checkout Tutor
+   70  ls
+   71  git log --oneline
+   72  npp README.md 
+   73  git checkout master
+   74  git pull ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+   75  git pull origin 
+   76  git pull origin ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+   77  ls
+   78  npp README.md 
+   79  ls -a
+   80  git clone ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+   81  ls
+   82  cd kparkhomenka-final-git/
+   83  ls
+   84  ls -a
+   85  cd ..
+   86  ls
+   87  npp README.md 
+   88  git status
+   89  rm -r kparkhomenka-final-git/
+   90  ls
+   91  git remote add updater ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+   92  git pull updater master
+   93  git pull updater
+   94  git checkout Tutor
+   95  git pull updater master
+   96  git remote --list
+   97  git remote -м
+   98  git remote -v
+   99  git checkout master
+  100  git fetch
+  101  ls
+  102  npp README.md 
+  103  git fetch origin master
+  104  ls
+  105  npp README.md 
+  106  git fetch updater
+  107  ls
+  108  npp README.md 
+  109  ls -a
+  110  git fetch updater master
+  111  git remote remove updater
+  112  git remote -v
+  113  git fetch origin master
+  114  git log --oneline
+  115  git status
+  116  ls
+  117  npp README.md 
+  118  git branch -a
+  119  git checkout Tutor
+  120  ls
+  121  npp README.md 
+  122  git pull ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git master
+  123  git pull ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  124  git remote add updater ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  125  git pull updater master
+  126  git pull updater 
+  127  git fetch updater master
+  128  git fetch updater
+  129  ls
+  130  git checkout master
+  131  ls
+  132  npp README.md 
+  133  cd ..
+  134  ls
+  135  git clone ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  136  ls
+  137  cd kparkhomenka-final-git/
+  138  ls
+  139  git branch -a
+  140  ls -a
+  141  cd ..
+  142  cd final-test-git/
+  143  ls
+  144  git remote -v 
+  145  git log --oneline
+  146  cd ..
+  147  ls
+  148  cd kparkhomenka-final-git/
+  149  ls
+  150  git log --oneline
+  151  cd ..
+  152  cd final-test-git/
+  153  ls
+  154  git checkout ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  155  cd ..
+  156  ls
+  157  cd kparkhomenka-final-git/
+  158  cd ..
+  159  cd final-test-git/
+  160  git remote upd ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  161  git remote add upd ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  162  git remote -v
+  163  git pull upd master
+  164  git remote remove updater
+  165  git remote -v
+  166  git fetch upd master
+  167  ls
+  168  cd final-test-git/
+  169  git pull 
+  170  ls
+  171  git pull ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  172  git pull origin ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  173  ls
+  174  git pull ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git master
+  175  git pull ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418 master
+  176  git pull origin ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418
+  177  git pull origin
+  178  ls
+  179  npp README.md 
+  180  git fetch origin master
+  181  ls
+  182  git log --oneline
+  183  npp README.md 
+  184  git pull origin master
+  185  git remote -v 
+  186  git pull upd master
+  187  git remote remove origin
+  188  git remote -v
+  189  git fetch upd master
+  190  git remote remove upd
+  191  git remote -v
+  192  git remote add origin ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  193  git pull origin 
+  194  git pull origin master
+  195  git fetch origin master
+  196  git fetch 
+  197  ls
+  198  git pull 
+  199  git branch -a
+  200  git clone origin
+  201  git remote add upd ssh://KParkhomenka@gml-jbpm.gomel.iba.by:29418/KParkhomenka-final-git
+  202  git pull upd master
+  203  git remote remove ups
+  204  git remote remove upd
+  205  git remote -v
+  206  git remote remove origin 
+  207  git remote add ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/final-test-git 
+  208  git remote add origin ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/final-test-git 
+  209  git pull origin master
+  210  ls
+  211  git branch -a
+  212  git checkout origin/master
+  213  ls
+  214  npp README.md 
+  215  ls -a
+  216  git checkout master
+  217  ls
+  218  git branch -a 
+  219  git checkout Tutor
+  220  ls
+  221  npp README.md 
+  222  ls
+  223  npp README.md 
+  224  cd ..
+  225  ls
+  226  cd final-test-git/
+  227  git remote remove origin
+  228  git remote -v
+  229  git remote add origin ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  230  git pull origin master
+  231  git pull 
+  232  git pull origin Tutor
+  233  git checkout master
+  234  cd ..
+  235  git clone 
+  236  git clone ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  237  ls
+  238  rm -r kparkhomenka-final-git/
+  239  git clone ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  240  ls
+  241  cd kparkhomenka-final-git/
+  242  ls
+  243  ls
+  244  git branch -a
+  245  ls
+  246  cd kparkhomenka-final-git/
+  247  git pull origin master
+  248  ls
+  249  git pull
+  250  ls
+  251  npp README.md 
+  252  git checkout -b gitFinalQuest
+  253  git pull 
+  254  git pull origin gitFinalQuest
+  255  git push origin gitFinalQuest
+  256  git pull 
+  257  git pull origin gitFinalQuest
+  258  ls
+  259  history >> gitQuestHistory.md
+  260  ls
+  261  npp gitQuestHistory.md 
+  262  git status
+  263  git add .
+  264  git commit -a "History"
+  265  git status
+  266  git commit -m "History"
+  267  git log --oneline
+  268  git push origin HEAD:refs/for/gitFinalQuest
+  269  git commit --amend
+  270  git push origin HEAD:refs/for/gitFinalQuest
+  271  git branch -a
+  272  gitdir=$(git rev-parse --git-dir); scp -p -P 29418 kparkhomenka@gml-jbpm.gomel.iba.by:hooks/commit-msg ${gitdir}/hooks/
+  273  git push origin HEAD:refs/for/gitFinalQuest
+  274  git log --oneline
+  275  gitdir=$(git rev-parse --git-dir)
+  276  scp -p -P 29418 kparkhomenka@gml-jbpm.gomel.iba.by:hooks/commit-msg ${gitdir}/hooks/
+  277  scp -p -P 29418 kparkhomenka@gml-jbpm.gomel.iba.by:hooks/commit-msg ${gitdir}/hooks/
+  278  git log --oneline
+  279  git push origin HEAD:refs/for/gitFinalQuest
+  280  git reset --hard 6a8c238
+  281  git log --oneline
+  282  git pull origin gitFinalQuest
+  283  git fetch 
+  284  history >> gitQuestHistory.md
+  285  git add .
+  286  git commit -m "history file"
+  287  git push origin HEAD:refs/for/gitFinalQuest
+  288  git log --oneline
+  289  git log 
+  290  git log --oneline -all
+  291  git log --oneline --all
+  292  git reset --hard 6a8c238
+  293  git log --oneline
+  294  git reset --hard e91e36f
+  295  git log --oneline --all
+  296  history >> gitQuestHistory.md
+  297  git add .
+  298  git commit -m "history file"
+  299  git push origin HEAD:refs/for/gitFinalQuest
+  300  Ls
+  301  rm -r kparkhomenka-final-git/
+  302  ls
+  303  rm -r kparkhomenka-final-git/
+  304  ls
+  305  remove kparkhomenka-final-git/
+  306  git rm -r kparkhomenka-final-git/
+  307  rm -r kparkhomenka-final-git/
+  308  ls
+  309  rm -f kparkhomenka-final-git/
+  310  rm -rf kparkhomenka-final-git/
+  311  ls
+  312  git clone ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/final-test-git
+  313  rm -rf final-test-git/
+  314  git clone ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/final-test-git
+  315  cd final-test-git/
+  316  npp README.md 
+  317  git log --oneline
+  318  git checkout a2bbc04
+  319  ls
+  320  npp README.md 
+  321  git branch -a
+  322  git checkout bug 
+  323  ls
+  324  npp README.md 
+  325  git blame code.js
+  326  git checkout MrDeadpool 
+  327  npp README.md 
+  328  git checkout bug 
+  329  ls -a
+  330  git checkout MrDeadpool 
+  331  ls -a
+  332  npp .gitignore 
+  333  git branch -a
+  334  git checkout tree
+  335  ls
+  336  npp README.md 
+  337  git blame outClue.sh
+  338  npp outClue.sh 
+  339  npp chamichangas.sh 
+  340  git blame chamichangas.sh
+  341  clear
+  342  ls
+  343  sh outClue.sh 
+  344  sh chamichangas.sh 
+  345  git merge live2code 
+  346  git merge origin/live2code 
+  347  git mergetool
+  348  git merge --continue 
+  349  sh outClue.sh
+  350  git checkout mouse 
+  351  ls
+  352  npp README.md 
+  353  git diff mouse bug -- remember
+  354  ls
+  355  git checkout Tutor 
+  356  ls
+  357  npp README.md 
+  358  git tag list
+  359  git checkout mouse 
+  360  git tag 
+  361  git show Tutor
+  362  git branch -a
+  363  git checkout -b Tutor Tutor
+  364  ls
+  365  npp README.md 
+  366  git checkout mouse 
+  367  git branch -d Tutor
+  368  git branch -D Tutor
+  369  git branch -a
+  370  git tag
+  371  git pull 
+  372  git branch -a
+  373  git checkout origin/Tutor
+  374  ls
+  375  npp README.md 
+  376  git checkout master
+  377  ls
+  378  git pull origin master
+  379  ls
+  380  npp README.md 
+  381  git remote add updater ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  382  git pull updater master
+  383  ls
+  384  npp README.md 
+  385  rm -r outClue.sh.orig 
+  386  ls
+  387  git status
+  388  git checkout -b gitFinalQuest
+  389  git push origin gitFinalQuest
+  390  git branch -a
+  391  git pull origin gitFinalQuest
+  392  git push origin gitFinalQuest
+  393  git remote -v
+  394  git remote remove updater
+  395  git push origin gitFinalQuest
+  396  ls
+  397  git checkout master
+  398  git branch -D gitFinalQuest 
+  399  git checkout -b gitFinalQuest
+  400  git push origin gitFinalQuest
+  401  git push -u origin gitFinalQuest
+  402  ls
+  403  git clone ssh://kparkhomenka@gml-jbpm.gomel.iba.by:29418/kparkhomenka-final-git
+  404  cd kparkhomenka-final-git/
+  405  ls
+  406  npp README.md 
+  407  git checkout -b gitFinalQuest
+  408  git push origin gitFinalQuest
+  409  git pull origin gitFinalQuest 
+  410  ls
+  411  history >> gitQuestHistory.md
+  412  npp gitQuestHistory.md 
+  413  git push origin HEAD:refs/for/gitFinalQuest
+  414  git add .
+  415  git commit -m "History"
+  416  git push origin HEAD:refs/for/gitFinalQuest
+  417  git log 
+  418  git log --oneline
+  419  git reset --hard e91e36f 
+  420  history >> gitQuestHistory.md
+  421  git add .
+  422  git commit --amend
+  423  git log
+  424  git checkout master
+  425  git branch -D gitFinalQuest 
+  426  git checkout -b gitFinalQuest
+  427  git pull origin gitFinalQuest
+  428  ls
+  429  gitdir=$(git rev-parse --git-dir)
+  430  scp -p -P 29418 kparkhomenka@gml-jbpm.gomel.iba.by:hooks/commit-msg ${gitdir}/hooks/
+  431  history >> gitQuestHistory.md
+  432  git add .
+  433  git commit -m "History"
+  434  git log 
+  435  git push origin HEAD:refs/for/gitFinalQuest
+  436  cd kparkhomenka-final-git/
+  437  git commit --amend
+  438  git push origin HEAD:refs/for/master
+  439  ls
+  440  cd kparkhomenka-git
+  441  git branch -a
+  442  git checkout Tasks 
+  443  ls
+  444  cd Topic7
+  445  ls
+  446  npp Task9.md 
+  447  cd ..
+  448  cd Topic6
+  449  ls
+  450  npp Task8
+  451  npp Task8.md 
+  452  npp Task7.md 
+  453  npp Task6.md 
+  454  ды
+  455  Ls
+  456  ls
+  457  cd kparkhomenka-git/
+  458  cd kparkhomenka-git/
+  459  ls
+  460  git branch
+  461  ls
+  462  git clone git@github.com:KirillParhomenko/TestCompany.git
+  463  git clone https://github.com/KirillParhomenko/TestCompany.git
+  464  ls
+  465  cd TestCompany/
+  466  git branch -a 
+  467  git branch 
+  468  clear
+  469  git checkout -b Section3
+  470  git log --oneline
+  471  npp file.txt
+  472  git add .
+  473  git status
+  474  clear
+  475  git commit -m "Task 1 create file.txt"
+  476  ls
+  477  mkdir Section3
+  478  ls
+  479  git mv file.txt Section3/
+  480  ls
+  481  git status
+  482  cd Section3/
+  483  LS
+  484  git status
+  485  git add .
+  486  git status
+  487   git log --oneline
+  488  git commit -m "Task 1 moved file into Section3 directory"
+  489  ls
+  490  git push origin Section3
+  491  git log --oneline 
+  492  git checkout master
+  493  git branch -a 
+  494  git checkout -b master
+  495  git branch --unset-upstream"
+  496  git branch --unset-upstream
+  497  dfer]
+  498  f
+  499  df
+  500  df
+  501  cd TestCompany/
+  502  ls
+  503  git log --oneline
+  504  git merge Section3 --no-ff
+  505  git log --oneline
+  506  ls
+  507  cd Section3/
+  508  ls
+  509  history >> history1.txt
